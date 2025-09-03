@@ -3,6 +3,10 @@ img{
     margin: 10px;
 }
 
+footer{
+    background-color: aliceblue;
+}
+
 .colored-header{
     background-color: #e3ebee;
     margin-bottom: 30px;
