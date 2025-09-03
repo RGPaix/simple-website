@@ -3,6 +3,7 @@ img{
     margin: 10px;
 }
 
+<<<<<<< HEAD
 body{
     background-color: beige;
 }
@@ -29,6 +30,10 @@ h2{
 section.agenda{
     color: darkblue;
     text-align: center;
+=======
+footer{
+    background-color: aliceblue;
+>>>>>>> feature/footer
 }
 
 .colored-header{
