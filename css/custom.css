@@ -3,6 +3,30 @@ img{
     margin: 10px;
 }
 
+body{
+    background-color: beige;
+}
+
+header {
+    text-align: center;
+}
+
+nav ul {
+  list-style-type: none; /* Removes the bullet points */
+  margin: 0;
+  padding: 0;
+  display: flex; /* This is the key line! */
+  justify-content: center;
+  gap: 20px; /* Adds space between items */
+}
+
+h2{
+    color: blue;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+
 .colored-header{
     background-color: #e3ebee;
     margin-bottom: 30px;
