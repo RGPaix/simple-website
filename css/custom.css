@@ -3,6 +3,17 @@ img{
     margin: 10px;
 }
 
+h2{
+    color: darkgreen;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+section.agenda{
+    color: darkblue;
+    text-align: center;
+}
+
 .colored-header{
     background-color: #e3ebee;
     margin-bottom: 30px;
