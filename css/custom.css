@@ -26,6 +26,10 @@ h2{
     text-transform: uppercase;
 }
 
+section.agenda{
+    color: darkblue;
+    text-align: center;
+}
 
 .colored-header{
     background-color: #e3ebee;
