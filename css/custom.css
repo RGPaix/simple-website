@@ -36,6 +36,10 @@ section.agenda{
     margin-bottom: 30px;
 }
 
+section.palestrantes{
+    background-color: lightcyan;
+}
+
 .circle{
     width:30px;
     height:30px;
